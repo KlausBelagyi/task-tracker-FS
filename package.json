@@ -1,6 +1,6 @@
 {
   "name": "react-time-tracking",
-  "homepage": "https://vivid-trace.firebaseapp.com",
+  "homepage": "",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
@@ -31,7 +31,7 @@
     "formsy-react": "^0.18.1",
     "history": "^3.2.1",
     "lodash": "^4.17.4",
-    "material-ui": "^0.16.7",
+    "material-ui": "^0.20.0",
     "moment": "^2.17.1",
     "moment-duration-format": "^1.3.0",
     "react": "^15.4.2",
